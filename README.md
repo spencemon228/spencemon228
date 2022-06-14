@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spencemon228
+- 👋 Hi, I’m Spencer!
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning how to code.
 - 📫 How to reach me spencera.reynolds@hotmail.com .
